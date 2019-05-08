@@ -6,10 +6,10 @@ spring:
 
 spring:
   profiles: dev
-crc: mycrcurl
+cfc: mycrcurl
 
 ---
 
 spring:
   profiles: prod
-crc: mycrcurl
+cfc: mycrcurl
