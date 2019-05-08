@@ -1,1 +1,11 @@
 cfc: mycrcurldef
+
+spring:
+  profiles: default
+cfc: mycrcurldef11
+ 
+---
+
+spring:
+  profiles: dev
+cfc: mycrcurl
