@@ -1,7 +1,1 @@
 cfc: mycrcurldef
- 
----
-
-spring:
-  profiles: dev
-cfc: mycrcurl
