@@ -1,5 +1,3 @@
-cfc: mycrcurldef
-
 spring:
   profiles: default
 cfc: mycrcurldef11
