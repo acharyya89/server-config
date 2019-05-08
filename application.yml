@@ -1,3 +1,9 @@
 spring:
+  profiles: default
+cfc: mycrcurldef
+ 
+---
+
+spring:
   profiles: dev
- cfc: mycrcurl
+cfc: mycrcurl
