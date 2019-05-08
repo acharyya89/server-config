@@ -1,15 +1,1 @@
-spring:
-  profiles:
-    active: dev
- 
----
-
-spring:
-  profiles: dev
-cfc: mycrcurl
-
----
-
-spring:
-  profiles: prod
 cfc: mycrcurl
