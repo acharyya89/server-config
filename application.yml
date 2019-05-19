@@ -1,9 +1,11 @@
 spring:
   profiles: default
 cfc: mycrcurldef11
+errormsg: myErrorMessage-default
  
 ---
 
 spring:
   profiles: dev
 cfc: mycrcur4444-changed6
+errormsg: myErrorMessage-dev
