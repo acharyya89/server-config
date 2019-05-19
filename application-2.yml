@@ -1,1 +1,10 @@
 
+spring:
+  profiles: default
+errormsg: myErrorMessage-default
+ 
+---
+
+spring:
+  profiles: dev
+errormsg: myErrorMessage-dev
