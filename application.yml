@@ -2,6 +2,7 @@ spring:
   profiles: default
 cfc: mycrcurldef11
 errormsg: myErrorMessage-default
+cfcurll: http://lenovo-pc.home:8888/quote/gett
 
 camel:
   log:
@@ -14,6 +15,7 @@ spring:
   profiles: dev
 cfc: mycrcur4444-changed6
 errormsg: myErrorMessage-dev-edited-2
+cfcurll: http://lenovo-pc.home:8888/quote/gett
 
 
 camel:
